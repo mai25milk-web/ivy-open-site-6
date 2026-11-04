@@ -1,6 +1,6 @@
-# アイビーオープン デザイン⑥（確認用）
+# アイビー デザイン⑥（確認用）
 
-- 元デザイン：Figma「【デザイン⑥】アイビーオープン 森のアトリエ」 https://www.figma.com/design/vSbP6ihazKONI83X1r6ZBB/
+- 元デザイン：Figma「【デザイン⑥】アイビー 森のアトリエ」 https://www.figma.com/design/vSbP6ihazKONI83X1r6ZBB/
 - 参考にした全体感：牛津こどもの森（クリームの紙・ちぎった縁・縦書きの色札）。白中心に調整
 - 全ページ noindex（確認用）。ビルドなし、`index.html` を開けば動く
 - 素材は `output/hp/morioka-kaiga/design6-mori/html-prep.js` で書き出し（写真は Instagram と既存画像、飾りは生成2枚から切り出し）
